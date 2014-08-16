@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/* CSS Document */
+/* override bootstrap defaults */
+
+h2 {color:rgba(153,51,153,1);}
+ul li {list-style:none;}
+p {font-size:1.5em;}
+a {text-decoration:none;}
+
+body{background-color:rgba(102,102,102,1);}
+
+/* .class styling */
+.label{color:rgba(153,153,153,1);}
+.description{color:rgba(153,153,153,1);}
+.tdcenter{text-align:center;}
+.footsy{color:rgba(153,153,153,1);font-size:0.6em;text-align:center;}
